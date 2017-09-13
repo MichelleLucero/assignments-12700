@@ -1,0 +1,1 @@
+I believe that this code prints 2. 
